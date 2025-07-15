@@ -1,0 +1,8 @@
+![Yorum ve beğeni](https://github.com/user-attachments/assets/e168e399-93a5-46fc-9284-bbdfd1c62962)
+![Videolarım](https://github.com/user-attachments/assets/bf6f059e-3cc2-4afd-9eda-0517b77021d9)
+![Video yükleme](https://github.com/user-attachments/assets/371b71d1-d1d8-4afe-b93f-c7d3e07378f8)
+![Video sayfası](https://github.com/user-attachments/assets/a889ec5a-d3ee-4bd7-8e11-8033bbeb1c74)
+![mongodb](https://github.com/user-attachments/assets/f436b28d-dcfb-4083-934b-efc8bd1fde73)
+![Kayıt ol](https://github.com/user-attachments/assets/efbfba8f-a3fd-4b7f-b469-5bd430f93bc1)
+![Giriş Sayfası](https://github.com/user-attachments/assets/53c3f12c-cce3-42e3-a9a2-ec1eb759c061)
+![Ana Sayfa](https://github.com/user-attachments/assets/27d97183-e171-4c95-a8d6-9ce1d12b98dd)
